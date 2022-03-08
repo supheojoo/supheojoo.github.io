@@ -1,2 +1,2 @@
-# KhanhLinh
-Link web demo: supheojoo.github.io/KhanhLinh/
+# NgoHa
+Link web demo: supheojoo.github.io/NgoHa/
